@@ -46,7 +46,7 @@ function LeftPanel() {
 export default function Connect() {
   return (
     <div id="connect">
-      <div className="feature-sub-header">Connect to any service</div>
+      <div className="feature-sub-header">Explore our services</div>
       <OnVisibleAnimation beforeClass={''} afterClass={'connect-panels-close'}>
         <div id="connect-panels">
           <LeftPanel></LeftPanel>
