@@ -113,7 +113,7 @@ export function HeaderPanel() {
       {/* <h1 id="start-panel-sub-header">One chatbot to rule them all</h1> 
       {/* <h1 id="start-panel-sub-header">Framework agnostic chat component to power AI services of tomorrow</h1> */}
       {/* <h1 id="start-panel-sub-header">Powering AI services of tomorrow</h1> */}
-      <h1 id="start-panel-sub-header">The AI Odyssey Begins Here.</h1>
+      <h1 id="start-panel-sub-header">Empowering Enterprises with AI Next-Gen Intelligent Solutions</h1>
     </div>
   );
 }
