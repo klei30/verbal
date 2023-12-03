@@ -110,13 +110,14 @@ export function HeaderPanel() {
       <h1 id="start-panel-header" className="header-font">
         Verbal
       </h1>
-      {/* <h1 id="start-panel-sub-header">One chatbot to rule them all</h1> */}
+      {/* <h1 id="start-panel-sub-header">One chatbot to rule them all</h1> 
       {/* <h1 id="start-panel-sub-header">Framework agnostic chat component to power AI services of tomorrow</h1> */}
       {/* <h1 id="start-panel-sub-header">Powering AI services of tomorrow</h1> */}
-      <h1 id="start-panel-sub-header">Built to power AI services of tomorrow</h1>
+      <h1 id="start-panel-sub-header">The AI Odyssey Begins Here.</h1>
     </div>
   );
 }
+
 
 export default function StartPanel() {
   return (
