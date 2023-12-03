@@ -66,13 +66,13 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       metadata: [
-        {name: 'description', content: 'Customizable chat component for AI APIs'},
+        {name: 'description', content: 'Verbal a customizable AI Technology Enterprise Company'},
         {name: 'keywords', content: 'ai, chat, bot, chatbot, assistant, component'},
         {name: 'og:title', content: 'verbal'},
-        {name: 'og:description', content: 'Customizable chat component for AI APIs'},
+        {name: 'og:description', content: 'Verbal a customizable AI Technology Enterprise Company'},
         {
           name: 'og:image',
-          content: 'https://raw.githubusercontent.com/OvidijusParsiunas/deep-chat/main/assets/readme/social-media-4.png',
+          content: 'https://verbal1.vercel.app/img/deep-chat-title.svg',
         },
         {name: 'og:url', content: 'https://deepchat.dev/'},
         {name: 'twitter:title', content: 'verbal'},
@@ -81,7 +81,7 @@ const config = {
         {name: 'twitter:description', content: 'Customizable chat component for AI APIs'},
         {
           name: 'twitter:image',
-          content: 'https://raw.githubusercontent.com/OvidijusParsiunas/deep-chat/main/assets/readme/social-media-4.png',
+          content: 'https://verbal1.vercel.app/img/deep-chat-title.svg',
         },
       ],
       navbar: {
