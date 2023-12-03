@@ -7,8 +7,7 @@ function RightPanel() {
   return (
     <div id="connect-right-panel" className="feature-panel">
       <div id="connect-text">
-       "Verbal: The Gateway to Seamless Integration. With Verbal, the possibilities are limitless. Connect effortlessly to a wide array of APIs, unlocking the potential to communicate with leading AI providers right from your browser. Or, take control and customize your experience by configuring Verbal to link seamlessly with your own server systems. Whether you're tapping into external AI powerhouses or leveraging your in-house solutions, Verbal is your bridge to a smarter, more connected world."
-
+      Effortlessly connect to unlimited files, documents or APIs. Harness the power of top AI providers or tailor with your own servers, all through Verbal – the key to a smarter, interconnected future.
 
       </div>
     </div>
